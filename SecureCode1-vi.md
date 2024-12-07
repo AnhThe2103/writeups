@@ -55,7 +55,9 @@ Dùng Dirb scan trang web này thu được một số kết quả:
 
   - `db.sql`: Tiết lộ cấu trúc các bảng và các dữ liệu trong đó.
   ![image](https://github.com/user-attachments/assets/242f6ba0-efe5-437e-bcf0-18107330124f)
-
+     - Mô hình các bảng
+     ![image](https://github.com/user-attachments/assets/3a6c51b5-e7ac-48ac-85d8-84b3890ff4bc)
+      
   - `/users/store.php`: Sử dụng MD5 để băm mật khẩu.
   ![image](https://github.com/user-attachments/assets/2bd42fe8-670d-40b9-9a27-d95b097a34d6)
 
@@ -122,4 +124,5 @@ Dùng Dirb scan trang web này thu được một số kết quả:
 
 ## **Tài liệu tham khảo**
 - [OSWE Methodology](https://github.com/R-s0n/OSWE-Methodology/blob/main/methodology.txt)
-- [PHP rand() Warnings](https://www.php.net/manual/en/function.rand.php)
+- [PHP mysql_real_escape_string](https://www.php.net/manual/en/function.mysql-real-escape-string.php)
+- [PHP rand](https://www.php.net/manual/en/function.rand.php)
