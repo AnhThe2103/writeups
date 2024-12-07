@@ -18,7 +18,7 @@
 ---
 
 ## **Phân tích trang web**
-Trên trang này không có nhiều thông tin lắm, chỉ hiển thị ưebsite đang được xây dựng.
+Trên trang này không có nhiều thông tin lắm, chỉ hiển thị website đang được xây dựng.
 ![image](https://github.com/user-attachments/assets/8b3e39b9-8c14-453a-8b2e-8c4755df4521)
 
 1. **Mã nguồn trang web**:
