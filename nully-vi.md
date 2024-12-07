@@ -32,7 +32,7 @@
 
 ## **Mail server**
 Truy cập đến cổng 110 bằng netcat với tài khoản được cấp.
-![image](https://github.com/user-attachments/assets/c2af4455-3b7d-4e1d-8b01-ed8c79003ed8)
+[image](https://github.com/user-attachments/assets/c2af4455-3b7d-4e1d-8b01-ed8c79003ed8)
 Có 1 email từ Bob Smith với yêu cầu giúp đỡ truy cập lại mail server do quên password.
 ![image](https://github.com/user-attachments/assets/e10d324b-4c20-4dab-9804-5e283da6813d)
 Dựa vào một gợi ý khác của tác giả máy ảo trên VulnHub thì có thể tạo wordlist với từ khóa bobby.
