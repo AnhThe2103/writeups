@@ -23,7 +23,7 @@ Trên trang này không có nhiều thông tin lắm, chỉ hiển thị website
 
 1. **Mã nguồn trang web**:
    - Tất cả các file CSS và JS được tải về từ máy mục tiêu, không phải thư viện ngoài.
-   - Có một form bị vô hiệu hóa trong mã nguồn trang chủ trang web (không bị xóa đi).
+   - Có một form bị vô hiệu hóa trong mã nguồn trang chủ trang web.
   ![image](https://github.com/user-attachments/assets/fd34b522-9a03-40e5-a6cd-7b0335fc5168)
 
 
