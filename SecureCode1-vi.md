@@ -2,9 +2,10 @@
 
 ## **Máy ảo**
 
-[Kali Linux](https://www.kali.org/get-kali/#kali-virtual-machines)
-[SecureCode](https://www.vulnhub.com/entry/securecode-1,651/)
-# Network Adapter: NAT cho cả 2 máy
+- [Kali Linux](https://www.kali.org/get-kali/#kali-virtual-machines)
+
+- [SecureCode](https://www.vulnhub.com/entry/securecode-1,651/)
+   - Network Adapter: NAT cho cả 2 máy
 
 ---
 
