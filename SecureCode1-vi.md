@@ -59,8 +59,9 @@ Dùng Dirb scan trang web này thu được một số kết quả:
      - Mô hình các bảng
      ![image](https://github.com/user-attachments/assets/3a6c51b5-e7ac-48ac-85d8-84b3890ff4bc)
       
-  - `/users/store.php`: Sử dụng MD5 để băm mật khẩu.
+  - `/users/store.php`: Sử dụng MD5 để băm mật khẩu. 
   ![image](https://github.com/user-attachments/assets/2bd42fe8-670d-40b9-9a27-d95b097a34d6)
+      - Thử decrypt mật khẩu thu được từ db.sql nhưng thất bại.
 
   - `/login/resetPassword.php`:
     - Tạo token 15 ký tự ngẫu nhiên bằng `rand()` (dễ bị crack).
@@ -114,7 +115,7 @@ Dùng Dirb scan trang web này thu được một số kết quả:
 ---
 
 ## **Kết quả**
-1. Lấy được token và đổi mật khẩu admin.
+1. Lấy được token để đổi mật khẩu admin.
 ![image](https://github.com/user-attachments/assets/0d930e4d-d313-4c59-a9ba-87c629e23141)
 
 2. Tải lên reverse shell và truy cập máy chủ mục tiêu.
